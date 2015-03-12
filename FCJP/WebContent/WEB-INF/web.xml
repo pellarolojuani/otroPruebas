@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+   <servlet>
+      <servlet-name>initialServlet</servlet-name>
+      <servlet-class>com.servlets.FirstServlet</servlet-class>
+   </servlet>
+   <servlet-mapping>
+      <servlet-name>initialServlet</servlet-name>
+      <url-pattern>/inicio</url-pattern>
+   </servlet-mapping>
+</web-app>
