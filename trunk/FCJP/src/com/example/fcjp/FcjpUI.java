@@ -1,4 +1,4 @@
-package com.example.fcjp;
+/*package com.example.fcjp;
 
 import javax.servlet.annotation.WebServlet;
 
@@ -36,4 +36,4 @@ public class FcjpUI extends UI {
 		layout.addComponent(button);
 	}
 
-}
+}*/
